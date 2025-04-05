@@ -26,10 +26,11 @@
 - 🚀 Model Deployment (Docker, REST APIs)
 
 ### 🧠 NLP & Large Language Models (LLMs)
-- 🔍 Transformers, Prompt Engineering
-- 📚 Retrieval-Augmented Generation (RAG)
-- 🧪 Pretraining & Fine-Tuning
-- ✍️ Text Generation, 🗨️ Question Answering
+- 🔍 **Transformers**, **Prompt Engineering**  
+- 📚 **Retrieval-Augmented Generation (RAG)**  
+- 🧪 **Pretraining** & **Fine-Tuning**  
+- ✍️ **Text Generation**, 🗨️ **Question Answering**
+
 
 ---
 
