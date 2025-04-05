@@ -9,8 +9,7 @@
 ## 🛠️ Tech Stack
 
 - **Languages**: Python, C++, JavaScript, HTML, CSS, Bash  
-- **Frameworks/Tools**: PyTorch, TensorFlow, Flask, FastAPI, React, Docker, Git  
-- **Specialties**: Transformers, Machine Translation, Word Embeddings, gRPC, System Design
+- **Frameworks/Tools**: PyTorch, TensorFlow, Flask, React, Docker, Git  
 
 ---
 
