@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shiva Shankar
 
 🎓 M.Tech @ IIIT-Hyderabad  
-💻 AI | ML | NLP | Distributed Systems | Software Development  
+💻 AI | ML | NLP | Software Development  
 📚 Always learning and building cool things
 
 ---
