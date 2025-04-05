@@ -17,16 +17,16 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivashankar7673&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivashankar7673&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ss-369&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ss-369&layout=compact)
 
 ---
 
 ## 🌟 GitHub Highlights
 
-- ⭐ Total Stars: [![GitHub stars](https://img.shields.io/github/stars/shivashankar7673?style=social)](https://github.com/shivashankar7673?tab=repositories)
-- 📦 Total Repositories: ![Repo Count](https://img.shields.io/github/repos/shivashankar7673?style=flat-square)
-- 👁️ Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=shivashankar7673&color=blue)
+- ⭐ Total Stars: [![GitHub stars](https://img.shields.io/github/stars/ss-369?style=social)](https://github.com/ss-369?tab=repositories)
+- 📦 Total Repositories: ![Repo Count](https://img.shields.io/github/repos/ss-369?style=flat-square)
+- 👁️ Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=ss-369&color=blue)
 
 ---
 
@@ -38,4 +38,3 @@
 ---
 
 _“Strive for progress, not perfection.”_
-
