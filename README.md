@@ -25,7 +25,7 @@
 ## 🌟 GitHub Highlights
 
 - ⭐ Total Stars: [![GitHub stars](https://img.shields.io/github/stars/ss-369?style=social)](https://github.com/ss-369?tab=repositories)
-- 📦 Total Repositories: ![Repo Count](https://img.shields.io/github/repos/ss-369?style=flat-square)
+- 📦 Total Repositories: **Check out my [GitHub Repos](https://github.com/ss-369?tab=repositories)**
 - 👁️ Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=ss-369&color=blue)
 
 ---
