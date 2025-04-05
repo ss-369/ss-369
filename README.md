@@ -8,8 +8,28 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, C++, JavaScript, HTML, CSS, Bash  
-- **Frameworks/Tools**: PyTorch, TensorFlow, Flask, React, Docker, Git  
+### 💻 Languages
+- 🐍 Python    
+- 💠 C++    
+- 🌐 JavaScript, HTML, CSS  
+- 🖥️ Bash
+
+### 🧰 Frameworks & Tools
+- 🔦 PyTorch, TensorFlow
+- 🌿 Flask, ⚛️ React
+- 🐳 Docker, 🧬 Git
+
+### 🤖 Machine Learning & Deep Learning
+- 📊 Supervised & Unsupervised Learning
+- 🔁 Transfer Learning, Fine-Tuning
+- 🧠 Model Evaluation & Optimization
+- 🚀 Model Deployment (Docker, REST APIs)
+
+### 🧠 NLP & Large Language Models (LLMs)
+- 🔍 Transformers, Prompt Engineering
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🧪 Pretraining & Fine-Tuning
+- ✍️ Text Generation, 🗨️ Question Answering
 
 ---
 
