@@ -64,12 +64,5 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ss-369&theme=radical)  
 
----
-
-## 📫 Contact  
-
-- 📧 Email: **shivashankar7673@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/shiva-s369/)  
-- 🐙 [GitHub](https://github.com/ss-369)  
 
 ---
