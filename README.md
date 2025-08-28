@@ -59,7 +59,7 @@
 ## 🌟 Profile Highlights  
 
 - ⭐ Stars: [![GitHub stars](https://img.shields.io/github/stars/ss-369?style=social)](https://github.com/ss-369?tab=repositories)  
-- 👁️ Profile Views: [![](https://visitcount.itsvg.in/api?id=ss-369&icon=0&color=0)](https://visitcount.itsvg.in)  
+- 👁️ Profile Views: [![](https://komarev.com/ghpvc/?username=ss-369&label=Profile%20Views&color=blue&style=flat)
 - ⏳ Contributions Graph:  
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ss-369&theme=radical)  
