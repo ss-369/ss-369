@@ -28,7 +28,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ss-369&show_icons=true&theme=default)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ss-369&layout=compact&theme=default)  
-![GitHub Streak](https://streak-stats.demolab.com?user=ss-369&theme=default&hide_border=false)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ss-369)](https://git.io/streak-stats)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ss-369&theme=flat&no-frame=true&margin-w=10)  
 
 ---
