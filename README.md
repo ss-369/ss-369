@@ -24,19 +24,20 @@
 
 ---
 
-## 🚀 Featured Projects  
-
-- 🔹 **[IntelliDoc-AI](https://github.com/ss-369/IntelliDoc-AI)** – RAG-based Document Q&A with Gemini 2.5, LangChain, ChromaDB, FastAPI, Streamlit  
-- 🔹 **[Code-Mix Machine Translation](https://github.com/ss-369/CodeMix-Machine-Translation)** – English ↔ Hinglish Translation (T5, BART, mBART-50, LoRA, BLEU 43.23)  
-- 🔹 **[Semantic Segmentation](https://github.com/ss-369/Semantic-Segmentation-with-FCN-and-U-Net-Variants)** – FCN-32s/16s/8s, Residual/Attention U-Net, mIoU > 84%  
-- 🔹 **[Banking Microservices](https://github.com/ss-369/Banking_Microservices)** – Python Flask microservices (Auth, Accounts, Transactions, Reporting) with JWT & API Gateway  
-
----
-
 ## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ss-369&show_icons=true&theme=default)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ss-369&layout=compact&theme=default)  
+![GitHub Streak](https://streak-stats.demolab.com?user=ss-369&theme=default&hide_border=false)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ss-369&theme=flat&no-frame=true&margin-w=10)  
+
+---
+
+## 🌟 Highlights  
+
+- ⭐ Stars: [![GitHub stars](https://img.shields.io/github/stars/ss-369?style=social)](https://github.com/ss-369?tab=repositories)  
+- 👁️ Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=ss-369&color=blue)  
+- ⏳ Contributions: [![GitHub Contributions](https://badges.pufler.dev/commits/monthly/ss-369)](https://github.com/ss-369)  
 
 ---
 
