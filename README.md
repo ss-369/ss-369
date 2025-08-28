@@ -37,7 +37,9 @@
 
 - ⭐ Stars: [![GitHub stars](https://img.shields.io/github/stars/ss-369?style=social)](https://github.com/ss-369?tab=repositories)  
 - 👁️ Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=ss-369&color=blue)  
-- ⏳ Contributions: [![GitHub Contributions](https://badges.pufler.dev/commits/monthly/ss-369)](https://github.com/ss-369)  
+- ⏳ Contributions Graph:  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ss-369&theme=github)  
 
 ---
 
