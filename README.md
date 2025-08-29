@@ -32,7 +32,7 @@
 ---
 # 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=ss-369&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=ss-369&theme=radical&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?username=ss-369&theme=radical&hide_border=false)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ss-369&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
