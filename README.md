@@ -30,10 +30,9 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 
 ---
-
 # 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=ss-369&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>  
-[![GitHub Streak](https://streak-stats.demolab.com?user=ss-369&theme=radical&hide_border=false)](https://git.io/streak-stats)<br/>  
+[![GitHub Streak](https://streak-stats.demolab.com?user=ss-369&theme=radical&hide_border=true)](https://git.io/streak-stats)<br/>  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ss-369&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
 
 ---
